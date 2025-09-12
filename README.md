@@ -49,8 +49,6 @@ Here are the tools and technologies I'm proficient with. The badges below repres
 * **Generative AI Deployment:** Deploy Faster Generative AI models with NVIDIA NIM on GKE
 * **AI Application Development:** Getting started with the Gemini API and Dart and Flutter
 * **Community Member:** Google Cloud & NVIDIA Community, Firebase Studio Developer Community
-
-*(You can add the actual badge images here if you have their URLs!)*
 ---
 
 ### 🔥 My GitHub Stats & Activity
