@@ -3,7 +3,7 @@ Hello world, this is my profile
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hi there, I'm [Your Name]
+    Hi there, I'm AbelManoj
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
@@ -21,7 +21,7 @@ I'm a passionate Electronics and Communication Engineering student with a strong
 - 🌱 I’m constantly learning about deploying and scaling Generative AI models on **Google Cloud (GKE)** with **NVIDIA** technologies.
 - 🤝 I’m looking to collaborate on projects involving **IoT, Edge AI, or Cloud-Native applications**.
 - 💬 Ask me about **Google Cloud, Flutter, or anything related to AI/ML**.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR LINKEDIN URL])
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abel-manoj-3757a8290)
 - ⚡ Fun fact: I believe the best hardware deserves the smartest software!
 
 ---
