@@ -21,7 +21,7 @@ I'm a passionate Electronics and Communication Engineering student with a strong
 - 🌱 I’m constantly learning about deploying and scaling Generative AI models on **Google Cloud (GKE)** with **NVIDIA** technologies.
 - 🤝 I’m looking to collaborate on projects involving **IoT, Edge AI, or Cloud-Native applications**.
 - 💬 Ask me about **Google Cloud, Flutter, or anything related to AI/ML**.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abel-manoj-3757a8290)
+- 📫 How to reach me: (www.linkedin.com/in/abel-manoj-3757a8290)
 - ⚡ Fun fact: I believe the best hardware deserves the smartest software!
 
 ---
