@@ -17,16 +17,15 @@ Hello world, this is my profile
 
 I'm a passionate Electronics and Communication Engineering student with a strong drive to build what's next. My foundation in hardware and systems gives me a unique perspective on creating efficient, scalable software solutions. I am deeply fascinated by the intersection of AI, cloud infrastructure, and user-centric applications.
 
-- 🔭 I’m currently working on AI-powered mobile applications using **Flutter** and **Gemini API**.
-- 🌱 I’m constantly learning about deploying and scaling Generative AI models on **Google Cloud (GKE)** with **NVIDIA** technologies.
-- 🤝 I’m looking to collaborate on projects involving **IoT, Edge AI, or Cloud-Native applications**.
-- 💬 Ask me about **Google Cloud, Flutter, or anything related to AI/ML**.
-- 📫 How to reach me: (www.linkedin.com/in/abel-manoj-3757a8290)
-- ⚡ Fun fact: I believe the best hardware deserves the smartest software!
+- I’m currently working on AI-powered mobile applications using **Flutter** and **Gemini API**.
+-  I’m constantly learning about deploying and scaling Generative AI models on **Google Cloud (GKE)** with **NVIDIA** technologies.
+-  I’m looking to collaborate on projects involving **IoT, Edge AI, or Cloud-Native applications**.
+-  Ask me about **Google Cloud, Flutter, or anything related to AI/ML**.
+-  How to reach me: (www.linkedin.com/in/abel-manoj-3757a8290)
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 Here are the tools and technologies I'm proficient with. The badges below represent some of my verified skills!
 
@@ -43,7 +42,7 @@ Here are the tools and technologies I'm proficient with. The badges below repres
 
 ---
 
-### 🏆 My Achievements & Certifications
+###   Achievements & Certifications
 
 * **Google Cloud Certified:** Innovators Get Certified 2025
 * **Generative AI Deployment:** Deploy Faster Generative AI models with NVIDIA NIM on GKE
@@ -51,7 +50,7 @@ Here are the tools and technologies I'm proficient with. The badges below repres
 * **Community Member:** Google Cloud & NVIDIA Community, Firebase Studio Developer Community
 ---
 
-### 🔥 My GitHub Stats & Activity
+###   GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR GITHUB USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
